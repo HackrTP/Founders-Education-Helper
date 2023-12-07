@@ -34,10 +34,12 @@ Don't want to spend hours working on a summer school course? Use this to do it w
   1. To skip the Study (_The first thing you have to complete before taking a Quiz_) just click it
   2. Then above the study iframe, there should be Lessons  >  "_Current Lesson_"  >  "_Current Study_" Click the second option, your current lesson
   3. Now you can go straight to the quiz without doing the study!
+**Remove Limit**
+Drag and drop this [Bookmarklet](javascript:(function(){var s=document.createElement('script');s.type='text/javascript';s.src='https://raw.githubusercontent.com/HackrTP/Founders-Education-Helper/main/BingAIRemoveLimit.js';document.getElementsByTagName('head')[0].appendChild(s);}());)
 
 **AI Commands**
   
-  When giving it the list of questions and answers, you can use the prompt, found [Here](url), to get a reponse that looks like this:
+  When giving Bing AI the list of questions and answers, you can use the prompt, found [here](https://github.com/HackrTP/Founders-Education-Helper/blob/main/BingAIPrompt), to get a reponse that looks like this:
   ```
   Question 1: Which of the following refers to a set of processes that makes the hard drive perform tasks?
   A. Ultra-ware
