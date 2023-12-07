@@ -22,7 +22,7 @@ Don't want to spend hours working on a summer school course? Use this to do it w
 4. Click inside the text box that has now appeared at the bottom of the deveoper tools and press CONTROL+A then CONTROL+C
 5. Use you preferred AI Chatboot/Tool to answer the questions
 6. Now, click the correct answer that the AI gave you, and click enter, and continue until you've selected all the correct answers
-7. Click next so you are now on question 2, then click Question Progress on the side of your screen, and click questions 10 (_You do this because most of the time it will just load a blank screen if you try to go to question 10 from question 1_)
+7. Click next so you are now on question 2, then click Question Progress on the side of your screen, and click question 10 (_You do this because most of the time it will just load a blank screen if you try to go to question 10 from question 1_)
 8. Submit it, now you have to right click on "https://founders.edtell.com" and click "Clear" (_It is under "Local Storage" in "Application"_)
 9. Finally, switch back to the tab we started off at, refresh it, click the next Lesson you want to do, skip the study, click the quiz, go back to "Lessons", then go to the other tab where we extracted the questions and answers, remove "deliverAssessment.faces" from the end of the url and put "beginTakingAssessment.faces" instead
 10. Press enter and you will see its the same page we were on earlier when we started
@@ -94,4 +94,3 @@ updateMaxLength();
   C. Webcam, processes
   D. Scanner, interprets
   ```
-  
