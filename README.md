@@ -38,7 +38,7 @@ Don't want to spend hours working on a summer school course? Use this to do it w
 **Remove Limit**
 Drag and drop the following bookmarklet to your bookmarks bar and run it to remove the Bing AI Limit
 ```
-javascript:(function(){var s=document.createElement('script');s.type='text/javascript';s.src='script.js';document.getElementsByTagName('head')[0].appendChild(s);}());
+javascript:(function(){var s=document.createElement('script');s.type='text/javascript';s.src='https://raw.githubusercontent.com/HackrTP/Founders-Education-Helper/main/BingAIRemoveLimit.js';document.getElementsByTagName('head')[0].appendChild(s);}());
 ```
 If that doesn't work, then run the following code in the Console in Developer Tools
 ```
