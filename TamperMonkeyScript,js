@@ -2,8 +2,8 @@
 // @name         EDTell Quiz Helper
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Extract the questions and answers to a text file
-// @author       HackrTP
+// @description  Extract the Questions and Answers to a temp. text file
+// @author       AnonAnom
 // @match        https://founders.edtell.com/samigo-app/jsf/delivery/deliverAssessment.faces
 // @match        https://founders.edtell.com/samigo-app/jsf/delivery/beginTakingAssessment.faces
 // @icon         https://founders.edtell.com/favicon.ico
@@ -73,4 +73,4 @@ const intervalId = setInterval(() => {
     bookmarkletLink.href = bookmarkletScript;
     bookmarkletLink.click();
   }, 500);
-}, 1000);
+}, 300);
