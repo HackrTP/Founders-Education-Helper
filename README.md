@@ -94,3 +94,11 @@ updateMaxLength();
   C. Webcam, processes
   D. Scanner, interprets
   ```
+
+
+- [x] Get All Scripts Functioning and Working
+- [x] Automate the Answering Process
+- [ ] Tutorial for Automated Answering Process
+- [ ] Create a Simpler Tutorial For Everything (Coming Soon!)
+- [ ] Connect AI and Automate Extracting → Get Answers From AI → Enter Answers
+- [ ] Fully Automated
